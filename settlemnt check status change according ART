@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T03:45:07.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="PU5HLtkryC10kPMo6o3M" type="github"><diagram id="NSStjjgZiLVNiicnhzRo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-26T07:15:50.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gJiCS8eKDo8TXKXMoi4y" version="20.3.3" type="github">
+  <diagram id="NSStjjgZiLVNiicnhzRo" name="第 1 页">
+    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aaN-lZ8f8FSV-ks6VWWv-1" target="aaN-lZ8f8FSV-ks6VWWv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-1" value="ART Channel&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="417.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="225" width="10" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-7" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;NO RESOPENSE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-9" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;deposit_successful&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-10" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: common-ligatures; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;not deposit_successful&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-11" value="status --&amp;gt; Done" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="145" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="490" y="237.5" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-14" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;transaction hash&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="490" y="225" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#33FF33;" edge="1" parent="1" source="aaN-lZ8f8FSV-ks6VWWv-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-15" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;no transaction hash&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="620" y="215" width="20" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;Asset Gone&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;Still Processing&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;(wait to_trade exchange)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-23" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;withdraw fail&amp;nbsp; ?&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="685" y="290" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-25" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;ART FAIL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="368.75" width="20" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-27" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;withdraw_fail 而 FAIL&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-28" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 13px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248); line-height: 1.5;&quot;&gt;基本没有遇到过 deposit_fail &lt;br&gt;更多是会变成NORESPONSE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-30" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;ART ERROR&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaN-lZ8f8FSV-ks6VWWv-31" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;ART DONE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
